@@ -1,4 +1,4 @@
-# stockz-server
+# stockz-client
 Stock market simulator server client
 
 ## `*.py[co]` files
